@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PadmilNayak
-- 👀 I’m interested in Programming and Space 
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 📚 I’m currently a final year M.Tech student at NIT AP
+- 👨🏻‍💻 I’m working in Machine learning and Data Science 
+- 🤝 I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me padmilnayak@ymail.com
 
 <!---
